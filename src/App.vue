@@ -8,7 +8,7 @@ import TheWelcome from './components/TheWelcome.vue'
     <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
-      <HelloWorld msg="Bob is also gonna love dis" />
+      <HelloWorld msg="This is the real room where it happens" />
     </div>
   </header>
 
